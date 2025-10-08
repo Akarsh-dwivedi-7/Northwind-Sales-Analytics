@@ -75,7 +75,6 @@ This *Power BI dashboard* provides a 360° business overview, helping management
 ## 👨‍💻 Author  
 *Akarsh Dwivedi*  
 💼 Aspiring Data Analyst | Turning raw data into meaningful business insights  
-📫 Email: [your email here]  
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/akarshdwivedi/)  
 
 ⭐ If you found this project insightful, don’t forget to star the repository!
