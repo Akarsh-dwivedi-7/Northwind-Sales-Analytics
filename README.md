@@ -49,7 +49,7 @@ Key KPIs:
 
 📊 Dashboard Preview
 
-(./Sample.png)
+([./Sample.png](https://github.com/Akarsh-dwivedi-7/Northwind-Sales-Analytics/blob/main/Sample.png))
 
 Highlights:
 🔹 Peak Sales: $129K in May 1996 (mainly Beverages)
