@@ -49,7 +49,7 @@ Key KPIs:
 
 📊 Dashboard Preview
 
-Northwind Power BI Dashboard
+(./Sample.png)
 
 Highlights:
 🔹 Peak Sales: $129K in May 1996 (mainly Beverages)
